@@ -813,9 +813,9 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_company">Copyright © gis-luq</string>
+    <string name="app_company">Copyright © gis-lql</string>
     <string name="app_name">RsGis</string>
-    <string name="app_title_name_mian">通用应用程序框架</string>
+    <string name="app_title_name_mian">遥感监测</string>
     <string name="app_title_name_subhead">基于ArcGIS Runtime SDK 100.2.1</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="arcgisruntime_client_cert_dialog_button_positive">Continue</string>

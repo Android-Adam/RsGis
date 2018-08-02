@@ -12,6 +12,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.lql.rsgis.BMOD.MapModule.View.MapActivity;
+import com.lql.rsgis.BMOD.MapModule.View.MapActivity1;
 import com.lql.rsgis.BMOD.ProjectsModule.Model.ProjectInfo;
 import com.lql.rsgis.R;
 import com.lql.rsgis.Utils.FileUtils;
@@ -101,7 +102,7 @@ public class ProjectGridAdapter extends BaseAdapter {
         convertView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(context, MapActivity.class);
+                Intent intent = new Intent(context, MapActivity1.class);
                 intent.putExtra("DirName",projectInfo.DirName);
                 intent.putExtra("DirPath",projectInfo.DirPath);
                 context.startActivity(intent);

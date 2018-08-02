@@ -12,24 +12,24 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\b0bc5989285d8b29dd9c790e9a2b0f7f\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\b0bc5989285d8b29dd9c790e9a2b0f7f\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\anim_widget_exit_left.xml.flat",
         "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\anim\\widget_exit_left.xml"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_arcgisruntime_location_display_compass_symbol.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\arcgis-android-100.2.1.aar\\afd0fed28e2505cc3e5da00d40e50b42\\res\\drawable-xxhdpi-v4\\arcgisruntime_location_display_compass_symbol.png"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_del_default.png.flat",
@@ -48,12 +48,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8120fcf75fb68b2bb03ddc6e108c3eba\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8120fcf75fb68b2bb03ddc6e108c3eba\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_maps_indicator_current_position.png.flat",
@@ -76,12 +76,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fea_delete.png.flat",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\0ab74ae4163edf0259282212ea294d65\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_voice_btn.xml.flat",
-        "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\drawable\\ic_voice_btn.xml"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_voice_btn.xml.flat",
+        "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\drawable\\ic_voice_btn.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_base_widget_up_default.png.flat",
@@ -112,12 +112,12 @@
         "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\b0bc5989285d8b29dd9c790e9a2b0f7f\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_widget_view_query_mapquery_alertlayers_item.xml.flat",
@@ -172,12 +172,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\anim\\abc_fade_in.xml"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
@@ -188,12 +188,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_arcgisruntime_location_display_compass_symbol.png.flat",
@@ -240,6 +240,10 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\arcgis-android-100.2.1.aar\\afd0fed28e2505cc3e5da00d40e50b42\\res\\drawable-xhdpi-v4\\arcgisruntime_mapview_magnifier.png"
     },
     {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land_activity_map_1.xml.flat",
+        "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\layout-large-land\\activity_map_1.xml"
+    },
+    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -256,12 +260,12 @@
         "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\mipmap-xhdpi\\voice_presed.png"
     },
     {
-        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
@@ -1688,6 +1692,10 @@
         "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\layout-large-land\\activity_main_gridview_item.xml"
     },
     {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port_activity_map_1.xml.flat",
+        "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\layout-large-port\\activity_map_1.xml"
+    },
+    {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\b0bc5989285d8b29dd9c790e9a2b0f7f\\res\\drawable\\design_fab_background.xml"
     },
@@ -1822,6 +1830,10 @@
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map_1.xml.flat",
+        "source": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\src\\main\\res\\layout\\activity_map_1.xml"
     },
     {
         "merged": "E:\\baiduDownload\\WorkSpace_AS\\RsGis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",

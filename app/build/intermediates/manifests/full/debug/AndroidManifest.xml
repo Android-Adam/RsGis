@@ -60,10 +60,13 @@
         <activity
             android:name="com.lql.rsgis.BMOD.MapModule.View.MapActivity"
             android:configChanges="orientation|navigation|keyboardHidden|screenSize" />
-        <activity android:name="com.lql.rsgis.BMOD.SystemModule.AboutActivity" />
+        <activity
+            android:name="com.lql.rsgis.BMOD.MapModule.View.MapActivity1"
+            android:configChanges="orientation|navigation|keyboardHidden|screenSize" />
         <activity
             android:name="com.lql.rsgis.Permission.PermissionsActivity"
             android:configChanges="orientation|navigation|keyboardHidden|screenSize" />
+        <activity android:name="com.lql.rsgis.BMOD.SystemModule.AboutActivity" />
 
         <meta-data
             android:name="android.support.VERSION"

@@ -10,11 +10,19 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.TextView;
 
+import com.lql.rsgis.BMOD.MapModule.View.MapActivity1;
+import com.lql.rsgis.BMOD.ProjectsModule.Model.ProjectInfo;
 import com.lql.rsgis.BMOD.ProjectsModule.View.MainActivity;
 import com.lql.rsgis.Config.AppWorksSpaceInit;
+import com.lql.rsgis.Config.SystemDirPath;
 import com.lql.rsgis.Permission.PermissionsActivity;
 import com.lql.rsgis.Permission.PermissionsChecker;
 import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.FileUtils;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 import gisluq.lib.Util.AppUtils;
 
@@ -98,7 +106,12 @@ public class InitActivity extends AppCompatActivity {
      * 跳转
      */
     private void startActivity() {
-        Intent mainIntent = new Intent(context,MainActivity.class);
+        List<ProjectInfo> projectInfos = getProjectInfos();
+
+
+        Intent mainIntent = new Intent(context,MapActivity1.class);
+        mainIntent.putExtra("DirName",projectInfos.get(0).DirName);
+        mainIntent.putExtra("DirPath",projectInfos.get(0).DirPath);
         context.startActivity(mainIntent);
         ((Activity)context).finish();
     }
@@ -118,4 +131,38 @@ public class InitActivity extends AppCompatActivity {
     }
 
 
+
+    /**
+     * 获取工程信息列表
+     * @return
+     */
+    private List<ProjectInfo> getProjectInfos() {
+        List<FileUtils.FileInfo> fileInfos = FileUtils.getFileListInfo(SystemDirPath.getProjectPath(context),"folder");
+        // 获取文件名列表
+        List<String> fileNames = new ArrayList<>();
+        if (fileInfos!=null){
+            for (int i=0;i<fileInfos.size();i++){
+                fileNames.add(fileInfos.get(i).FileName);
+            }
+        }
+        Collections.sort(fileNames);//排序
+
+        List<ProjectInfo> infos = new ArrayList<>();
+        if (fileInfos!=null){
+
+            for (int i=0;i<fileNames.size();i++){
+                String name = fileNames.get(i);
+                for (int j=0;j<fileInfos.size();j++){
+                    FileUtils.FileInfo fileInfo = fileInfos.get(j);
+                    if (fileInfo.FileName.equals(name)){
+                        ProjectInfo projectInfo = new ProjectInfo();
+                        projectInfo.DirName = fileInfo.FileName;
+                        projectInfo.DirPath = fileInfo.FilePath;
+                        infos.add(projectInfo);
+                    }
+                }
+            }
+        }
+        return infos;
+    }
 }
