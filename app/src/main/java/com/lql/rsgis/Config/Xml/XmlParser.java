@@ -52,7 +52,7 @@ public class XmlParser {
 	{
 		ConfigEntity config = new ConfigEntity();
 		XmlPullParserFactory pullParserFactory = XmlPullParserFactory.newInstance();
-		XmlPullParser pullParser = pullParserFactory.newPullParser();
+		XmlPullParser pullParser = pullParserFactory.newPullParser(); // TODO: 2018/8/2 报错，空指针 
 		InputStream input;
 		int widgetid = 10000;//组件ID，从10000开始计数
 

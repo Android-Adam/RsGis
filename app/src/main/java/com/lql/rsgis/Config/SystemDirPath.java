@@ -12,7 +12,7 @@ import gisluq.lib.Util.SDCardUtils;
  * 记录、获取系统文件夹路径，管理存储位置信息
  */
 public class SystemDirPath {
-    private static String MainWorkSpace = "/RuntimeViewer";//工作空间地址
+    private static String MainWorkSpace = "/RsGis";//工作空间地址
 
     private static String Projects = "/Projects"; //系统工程文件夹
 
