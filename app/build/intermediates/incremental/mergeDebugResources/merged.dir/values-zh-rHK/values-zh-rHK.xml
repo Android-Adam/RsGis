@@ -19,6 +19,56 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享對象"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">繼續</string>
+    <string name="arcgisruntime_client_cert_dialog_message">服務已請求用戶端憑證來驗證您，需要進一步安全地鎖定螢幕。關閉此對話方塊將開啟 Android 對話方塊，您可在其中取消或變更安全性類型，從而指定憑證。</string>
+    <string name="arcgisruntime_client_cert_dialog_title">已請求用戶端憑證</string>
+    <string formatted="false" name="arcgisruntime_created_by">建立者: %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">由 %s 在 %s (位於 %s) 建立</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">由 %s 在 %s (位於 %s) 建立</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">由 %s 在一小時前建立</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">由 %s %d 在幾小時前建立</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">由 %s 在一分鐘前建立</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">由 %s %d 在幾分鐘前建立</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">由 %s 在幾秒鐘前建立</string>
+    <string formatted="false" name="arcgisruntime_created_day">在 %s (位於 %s) 建立</string>
+    <string formatted="false" name="arcgisruntime_created_full">在 %s (位於 %s) 建立</string>
+    <string formatted="false" name="arcgisruntime_created_hour">在一小時前建立</string>
+    <string formatted="false" name="arcgisruntime_created_hours">在 %d 小時前建立</string>
+    <string formatted="false" name="arcgisruntime_created_minute">在一分鐘前建立</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">在 %d 分鐘前建立</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">在幾秒鐘前建立</string>
+    <string formatted="false" name="arcgisruntime_edited_by">由 %s 編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">由 %s 在 %s (位於 %s) 編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">由 %s 在 %s (位於 %s) 編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">由 %s 在一小時前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">由 %s %d 在幾小時前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">由 %s 在一分鐘前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">由 %s %d 在幾分鐘前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">由 %s 在幾秒鐘前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_day">在 %s (位於 %s) 編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_full">在 %s (位於 %s) 編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">在一小時前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">在 %d 小時前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">在一分鐘前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">在 %d 分鐘前編輯</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">在幾秒鐘前編輯</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">值超出 %d 的欄位長度上限</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"名為 `%s` 的欄位不允許為無效值"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">取消</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">登入</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">密碼</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">所要求的身份驗證</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">使用者名稱</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s 至 %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">街區</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">信任</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">此伺服器無法自行證明，其安全性憑證是來自其他網域。這可能是配置錯誤或攔截您連線的攻擊者所造成。是否一定要繼續?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">不符的主機名稱</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">記住?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">此伺服器無法自行證明，其安全性憑證不受您的作業系統信任。是否一定要繼續?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">不受信任的主機</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">清除</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">移除折點</string>
     <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999 +"</string>
 </resources>
