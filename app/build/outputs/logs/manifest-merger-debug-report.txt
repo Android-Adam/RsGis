@@ -6,6 +6,7 @@ INJECTED from E:\baiduDownload\WorkSpace_AS\RsGis\app\src\main\AndroidManifest.x
 INJECTED from E:\baiduDownload\WorkSpace_AS\RsGis\app\src\main\AndroidManifest.xml:2:1-21:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6a8b09efde42f84982ba083742b4753d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b21bd3d78c1078348e703ff9cd5783f0\AndroidManifest.xml:2:1-11:12
+MERGED from [:lib] E:\baiduDownload\WorkSpace_AS\RsGis\lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-18:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3bd071f7580b0d1c88acc68eb65bcf63\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8e32669e7a8e488d8f0bdb3abfefe546\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:17:1-31:12
@@ -38,6 +39,8 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gr
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6a8b09efde42f84982ba083742b4753d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b21bd3d78c1078348e703ff9cd5783f0\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b21bd3d78c1078348e703ff9cd5783f0\AndroidManifest.xml:9:5-20
+MERGED from [:lib] E:\baiduDownload\WorkSpace_AS\RsGis\lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-16:19
+MERGED from [:lib] E:\baiduDownload\WorkSpace_AS\RsGis\lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-16:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3bd071f7580b0d1c88acc68eb65bcf63\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3bd071f7580b0d1c88acc68eb65bcf63\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8e32669e7a8e488d8f0bdb3abfefe546\AndroidManifest.xml:22:5-26:19
@@ -90,6 +93,8 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gr
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6a8b09efde42f84982ba083742b4753d\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b21bd3d78c1078348e703ff9cd5783f0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b21bd3d78c1078348e703ff9cd5783f0\AndroidManifest.xml:5:5-7:41
+MERGED from [:lib] E:\baiduDownload\WorkSpace_AS\RsGis\lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:lib] E:\baiduDownload\WorkSpace_AS\RsGis\lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3bd071f7580b0d1c88acc68eb65bcf63\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3bd071f7580b0d1c88acc68eb65bcf63\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8e32669e7a8e488d8f0bdb3abfefe546\AndroidManifest.xml:20:5-44
@@ -142,6 +147,10 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.
 		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6a8b09efde42f84982ba083742b4753d\AndroidManifest.xml:28:13-35
 	android:name
 		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\6a8b09efde42f84982ba083742b4753d\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:lib] E:\baiduDownload\WorkSpace_AS\RsGis\lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:lib] E:\baiduDownload\WorkSpace_AS\RsGis\lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-78
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:25:9-27:47
 	android:value
