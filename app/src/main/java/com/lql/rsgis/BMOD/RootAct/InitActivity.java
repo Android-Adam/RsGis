@@ -10,11 +10,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.TextView;
 
-import com.gisluq.runtimeviewer.BMOD.ProjectsModule.View.MainActivity;
-import com.gisluq.runtimeviewer.Config.AppWorksSpaceInit;
-import com.gisluq.runtimeviewer.Permission.PermissionsActivity;
-import com.gisluq.runtimeviewer.Permission.PermissionsChecker;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.BMOD.ProjectsModule.View.MainActivity;
+import com.lql.rsgis.Config.AppWorksSpaceInit;
+import com.lql.rsgis.Permission.PermissionsActivity;
+import com.lql.rsgis.Permission.PermissionsChecker;
+import com.lql.rsgis.R;
 
 import gisluq.lib.Util.AppUtils;
 

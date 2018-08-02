@@ -14,9 +14,9 @@ package com.lql.rsgis.Config.Xml;
 
 import android.content.Context;
 
-import com.gisluq.runtimeviewer.BMOD.MapModule.Resource.Constant;
-import com.gisluq.runtimeviewer.Config.Entity.ConfigEntity;
-import com.gisluq.runtimeviewer.Config.Entity.WidgetEntity;
+import com.lql.rsgis.BMOD.MapModule.Resource.Constant;
+import com.lql.rsgis.Config.Entity.ConfigEntity;
+import com.lql.rsgis.Config.Entity.WidgetEntity;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserFactory;

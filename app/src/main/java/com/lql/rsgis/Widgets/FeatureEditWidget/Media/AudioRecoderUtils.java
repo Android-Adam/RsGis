@@ -5,7 +5,7 @@ import android.os.Environment;
 import android.os.Handler;
 import android.util.Log;
 
-import com.gisluq.runtimeviewer.Utils.TimeUtils;
+import com.lql.rsgis.Utils.TimeUtils;
 
 import java.io.File;
 import java.io.IOException;

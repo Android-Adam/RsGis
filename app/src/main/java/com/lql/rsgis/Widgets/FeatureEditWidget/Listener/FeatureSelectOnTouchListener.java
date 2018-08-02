@@ -18,9 +18,9 @@ import com.esri.arcgisruntime.mapping.GeoElement;
 import com.esri.arcgisruntime.mapping.view.IdentifyLayerResult;
 import com.esri.arcgisruntime.mapping.view.MapView;
 import com.esri.arcgisruntime.mapping.view.MapView.OnTouchListener;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Resource.DrawToolsResource;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Adapter.AlertLayerListAdapter;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Bean.KeyAndValueBean;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Resource.DrawToolsResource;
+import com.lql.rsgis.Widgets.QueryWidget.Adapter.AlertLayerListAdapter;
+import com.lql.rsgis.Widgets.QueryWidget.Bean.KeyAndValueBean;
 
 import java.util.ArrayList;
 import java.util.List;

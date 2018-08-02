@@ -10,7 +10,7 @@ import android.widget.TextView;
 import android.widget.ToggleButton;
 
 import com.esri.arcgisruntime.mapping.view.MapView;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 /**
  * 资源绑定注册类

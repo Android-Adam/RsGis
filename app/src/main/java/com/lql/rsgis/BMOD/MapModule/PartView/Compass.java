@@ -28,7 +28,7 @@ import android.view.View;
 import com.esri.arcgisruntime.mapping.view.MapRotationChangedEvent;
 import com.esri.arcgisruntime.mapping.view.MapRotationChangedListener;
 import com.esri.arcgisruntime.mapping.view.MapView;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 /**
  * 地图旋转控制组件，当地图旋转时显示

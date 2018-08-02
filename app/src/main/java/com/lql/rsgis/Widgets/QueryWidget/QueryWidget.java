@@ -15,11 +15,11 @@ import com.esri.arcgisruntime.data.FeatureQueryResult;
 import com.esri.arcgisruntime.data.Field;
 import com.esri.arcgisruntime.data.QueryParameters;
 import com.esri.arcgisruntime.layers.FeatureLayer;
-import com.gisluq.runtimeviewer.BMOD.MapModule.BaseWidget.BaseWidget;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Adapter.LayerSpinnerAdapter;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Adapter.QueryResultAdapter;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Listener.MapQueryOnTouchListener;
+import com.lql.rsgis.BMOD.MapModule.BaseWidget.BaseWidget;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Widgets.QueryWidget.Adapter.LayerSpinnerAdapter;
+import com.lql.rsgis.Widgets.QueryWidget.Adapter.QueryResultAdapter;
+import com.lql.rsgis.Widgets.QueryWidget.Listener.MapQueryOnTouchListener;
 
 import java.util.ArrayList;
 import java.util.Iterator;

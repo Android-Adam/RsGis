@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import com.esri.arcgisruntime.layers.FeatureLayer;
 import com.esri.arcgisruntime.layers.Layer;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 import java.util.List;
 

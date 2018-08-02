@@ -7,9 +7,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.DialogUtils;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Bean.KeyAndValueBean;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.DialogUtils;
+import com.lql.rsgis.Widgets.QueryWidget.Bean.KeyAndValueBean;
 
 import java.util.List;
 

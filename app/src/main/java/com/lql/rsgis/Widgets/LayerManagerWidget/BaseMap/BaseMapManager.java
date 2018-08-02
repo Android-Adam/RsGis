@@ -3,7 +3,7 @@ package com.lql.rsgis.Widgets.LayerManagerWidget.BaseMap;
 import android.content.Context;
 
 import com.esri.arcgisruntime.mapping.view.MapView;
-import com.gisluq.runtimeviewer.Utils.FileUtils;
+import com.lql.rsgis.Utils.FileUtils;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -26,7 +26,7 @@ public class BaseMapManager {
 
     private List<BasemapLayerInfo> basemapLayerInfoList =null;
 
-    public BaseMapManager(Context context, MapView mapView,String path){
+    public BaseMapManager(Context context, MapView mapView, String path){
 
         this.context = context;
         this.mapView = mapView;

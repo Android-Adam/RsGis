@@ -6,7 +6,7 @@ import android.widget.GridView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 /**
  * 要素绘制工具UI信息

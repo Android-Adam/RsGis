@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 
 /**

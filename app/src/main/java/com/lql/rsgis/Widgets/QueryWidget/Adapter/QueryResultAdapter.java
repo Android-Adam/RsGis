@@ -16,7 +16,7 @@ import com.esri.arcgisruntime.geometry.GeometryEngine;
 import com.esri.arcgisruntime.layers.FeatureLayer;
 import com.esri.arcgisruntime.layers.Layer;
 import com.esri.arcgisruntime.mapping.view.MapView;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 import java.util.List;
 

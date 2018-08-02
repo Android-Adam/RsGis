@@ -2,8 +2,8 @@ package com.lql.rsgis.Config;
 
 import android.content.Context;
 
-import com.gisluq.runtimeviewer.Config.Entity.ConfigEntity;
-import com.gisluq.runtimeviewer.Config.Xml.XmlParser;
+import com.lql.rsgis.Config.Entity.ConfigEntity;
+import com.lql.rsgis.Config.Xml.XmlParser;
 
 /**
  * 系统配置获取

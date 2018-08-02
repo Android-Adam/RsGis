@@ -19,13 +19,13 @@ import android.widget.GridView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.gisluq.runtimeviewer.BMOD.ProjectsModule.Adapter.ProjectGridAdapter;
-import com.gisluq.runtimeviewer.BMOD.ProjectsModule.Model.ProjectInfo;
-import com.gisluq.runtimeviewer.BMOD.SystemModule.AboutActivity;
-import com.gisluq.runtimeviewer.Base.BaseActivity;
-import com.gisluq.runtimeviewer.Config.SystemDirPath;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.FileUtils;
+import com.lql.rsgis.BMOD.ProjectsModule.Adapter.ProjectGridAdapter;
+import com.lql.rsgis.BMOD.ProjectsModule.Model.ProjectInfo;
+import com.lql.rsgis.BMOD.SystemModule.AboutActivity;
+import com.lql.rsgis.Base.BaseActivity;
+import com.lql.rsgis.Config.SystemDirPath;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.FileUtils;
 
 import java.util.ArrayList;
 import java.util.Collections;

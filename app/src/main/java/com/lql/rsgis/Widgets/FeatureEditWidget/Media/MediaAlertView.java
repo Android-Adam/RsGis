@@ -11,7 +11,7 @@ import android.widget.CompoundButton;
 import android.widget.ListView;
 import android.widget.RadioButton;
 
-
+import com.lql.rsgis.R;
 import com.lql.rsgis.Utils.FileUtils;
 import com.lql.rsgis.Widgets.FeatureEditWidget.Adapter.FileAdapter;
 

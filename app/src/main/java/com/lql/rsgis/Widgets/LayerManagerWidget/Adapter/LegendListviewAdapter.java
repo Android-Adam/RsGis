@@ -15,7 +15,7 @@ import com.esri.arcgisruntime.data.Feature;
 import com.esri.arcgisruntime.layers.FeatureLayer;
 import com.esri.arcgisruntime.layers.Layer;
 import com.esri.arcgisruntime.symbology.Symbol;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 import java.util.List;
 import java.util.concurrent.ExecutionException;

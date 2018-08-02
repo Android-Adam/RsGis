@@ -10,14 +10,14 @@ import android.view.MenuItem;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.gisluq.runtimeviewer.BMOD.ProjectsModule.View.MainActivity;
-import com.gisluq.runtimeviewer.Base.BaseActivity;
-import com.gisluq.runtimeviewer.Config.AppWorksSpaceInit;
-import com.gisluq.runtimeviewer.Config.SystemDirPath;
-import com.gisluq.runtimeviewer.Permission.PermissionsActivity;
-import com.gisluq.runtimeviewer.Permission.PermissionsChecker;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.FileUtils;
+import com.lql.rsgis.BMOD.ProjectsModule.View.MainActivity;
+import com.lql.rsgis.Base.BaseActivity;
+import com.lql.rsgis.Config.AppWorksSpaceInit;
+import com.lql.rsgis.Config.SystemDirPath;
+import com.lql.rsgis.Permission.PermissionsActivity;
+import com.lql.rsgis.Permission.PermissionsChecker;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.FileUtils;
 
 import java.util.List;
 

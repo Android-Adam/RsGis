@@ -4,10 +4,10 @@ import android.content.Context;
 import android.util.Log;
 import android.view.View;
 
-import com.gisluq.runtimeviewer.BMOD.MapModule.Map.MapManager;
-import com.gisluq.runtimeviewer.BMOD.MapModule.Resource.ResourceConfig;
-import com.gisluq.runtimeviewer.Config.Entity.ConfigEntity;
-import com.gisluq.runtimeviewer.Config.Entity.WidgetEntity;
+import com.lql.rsgis.BMOD.MapModule.Map.MapManager;
+import com.lql.rsgis.BMOD.MapModule.Resource.ResourceConfig;
+import com.lql.rsgis.Config.Entity.ConfigEntity;
+import com.lql.rsgis.Config.Entity.WidgetEntity;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

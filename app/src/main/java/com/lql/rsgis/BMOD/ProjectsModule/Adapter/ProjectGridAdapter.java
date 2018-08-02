@@ -11,10 +11,10 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.gisluq.runtimeviewer.BMOD.MapModule.View.MapActivity;
-import com.gisluq.runtimeviewer.BMOD.ProjectsModule.Model.ProjectInfo;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.FileUtils;
+import com.lql.rsgis.BMOD.MapModule.View.MapActivity;
+import com.lql.rsgis.BMOD.ProjectsModule.Model.ProjectInfo;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.FileUtils;
 
 import java.util.List;
 

@@ -9,8 +9,8 @@ import android.widget.ImageView;
 import com.esri.arcgisruntime.geometry.Point;
 import com.esri.arcgisruntime.mapping.view.Callout;
 import com.esri.arcgisruntime.mapping.view.MapView;
-import com.gisluq.runtimeviewer.Config.Entity.ConfigEntity;
-import com.gisluq.runtimeviewer.EventBus.BaseWidgetMsgEvent;
+import com.lql.rsgis.Config.Entity.ConfigEntity;
+import com.lql.rsgis.EventBus.BaseWidgetMsgEvent;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;

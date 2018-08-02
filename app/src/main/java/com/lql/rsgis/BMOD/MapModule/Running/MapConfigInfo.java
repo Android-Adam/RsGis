@@ -1,6 +1,6 @@
 package com.lql.rsgis.BMOD.MapModule.Running;
 
-import com.gisluq.runtimeviewer.BMOD.MapModule.Location.DMUserLocationManager;
+import com.lql.rsgis.BMOD.MapModule.Location.DMUserLocationManager;
 
 /**
  *  地图资源配置

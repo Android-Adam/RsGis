@@ -15,8 +15,8 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.TimeUtils;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.TimeUtils;
 
 import gisluq.lib.Util.ToastUtils;
 

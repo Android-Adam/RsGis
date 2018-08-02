@@ -8,12 +8,12 @@ import com.esri.arcgisruntime.ArcGISRuntimeEnvironment;
 import com.esri.arcgisruntime.mapping.ArcGISMap;
 import com.esri.arcgisruntime.mapping.view.MapScaleChangedEvent;
 import com.esri.arcgisruntime.mapping.view.MapScaleChangedListener;
-import com.gisluq.runtimeviewer.BMOD.MapModule.Location.DMUserLocationManager;
-import com.gisluq.runtimeviewer.BMOD.MapModule.PartView.Compass;
-import com.gisluq.runtimeviewer.BMOD.MapModule.Resource.ResourceConfig;
-import com.gisluq.runtimeviewer.BMOD.MapModule.Running.MapConfigInfo;
-import com.gisluq.runtimeviewer.Config.Entity.ConfigEntity;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.BMOD.MapModule.Location.DMUserLocationManager;
+import com.lql.rsgis.BMOD.MapModule.PartView.Compass;
+import com.lql.rsgis.BMOD.MapModule.Resource.ResourceConfig;
+import com.lql.rsgis.BMOD.MapModule.Running.MapConfigInfo;
+import com.lql.rsgis.Config.Entity.ConfigEntity;
+import com.lql.rsgis.R;
 
 import java.text.DecimalFormat;
 
@@ -59,8 +59,8 @@ public class MapManager {
         try {
             /**设置许可**/
             ArcGISRuntimeEnvironment.setLicense(configEntity.getRuntimrKey());
-            String version =ArcGISRuntimeEnvironment.getAPIVersion();
-            String lic =ArcGISRuntimeEnvironment.getLicense().getLicenseLevel().name();
+            String version = ArcGISRuntimeEnvironment.getAPIVersion();
+            String lic = ArcGISRuntimeEnvironment.getLicense().getLicenseLevel().name();
             ToastUtils.showShort(context,"ArcGIS Runtime版本:"+version +"; 许可信息:"+lic);
         }catch (Exception e){
             ToastUtils.showShort(context,"ArcGIS Runtime 许可设置异常:"+e.getMessage());

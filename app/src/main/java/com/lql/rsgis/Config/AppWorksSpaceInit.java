@@ -5,8 +5,8 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.util.Log;
 
-import com.gisluq.runtimeviewer.Common.DialogTools;
-import com.gisluq.runtimeviewer.Utils.FileUtils;
+import com.lql.rsgis.Common.DialogTools;
+import com.lql.rsgis.Utils.FileUtils;
 
 
 /**

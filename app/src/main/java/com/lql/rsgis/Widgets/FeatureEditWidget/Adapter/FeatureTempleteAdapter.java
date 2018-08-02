@@ -19,8 +19,8 @@ import com.esri.arcgisruntime.mapping.view.MapView;
 import com.esri.arcgisruntime.mapping.view.SketchCreationMode;
 import com.esri.arcgisruntime.mapping.view.SketchEditor;
 import com.esri.arcgisruntime.symbology.Symbol;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Resource.DrawToolsResource;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Resource.DrawToolsResource;
 
 import java.util.List;
 import java.util.concurrent.ExecutionException;

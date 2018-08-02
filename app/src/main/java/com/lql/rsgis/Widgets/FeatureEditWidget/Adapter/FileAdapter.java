@@ -12,8 +12,8 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.FileUtils;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.FileUtils;
 
 import java.io.File;
 import java.util.List;

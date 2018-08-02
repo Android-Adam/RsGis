@@ -23,8 +23,8 @@ import com.esri.arcgisruntime.mapping.view.Graphic;
 import com.esri.arcgisruntime.mapping.view.GraphicsOverlay;
 import com.esri.arcgisruntime.mapping.view.MapView;
 import com.esri.arcgisruntime.symbology.PictureMarkerSymbol;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.DialogUtils;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.DialogUtils;
 
 import java.text.DecimalFormat;
 

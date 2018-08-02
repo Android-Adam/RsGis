@@ -18,9 +18,9 @@ import com.esri.arcgisruntime.mapping.GeoElement;
 import com.esri.arcgisruntime.mapping.view.DefaultMapViewOnTouchListener;
 import com.esri.arcgisruntime.mapping.view.IdentifyLayerResult;
 import com.esri.arcgisruntime.mapping.view.MapView;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Adapter.AlertLayerListAdapter;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Adapter.AttributeAdapter;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Bean.KeyAndValueBean;
+import com.lql.rsgis.Widgets.QueryWidget.Adapter.AlertLayerListAdapter;
+import com.lql.rsgis.Widgets.QueryWidget.Adapter.AttributeAdapter;
+import com.lql.rsgis.Widgets.QueryWidget.Bean.KeyAndValueBean;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,7 +32,7 @@ import gisluq.lib.Util.ToastUtils;
  * 属性查图点击事件
  * Created by gis-luq on 2018/4/19.
  */
-public class MapQueryOnTouchListener extends DefaultMapViewOnTouchListener{
+public class MapQueryOnTouchListener extends DefaultMapViewOnTouchListener {
 
     private Context context;
     private TextView txtLayerName;

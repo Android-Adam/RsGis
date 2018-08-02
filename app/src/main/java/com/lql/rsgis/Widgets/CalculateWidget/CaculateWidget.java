@@ -20,6 +20,7 @@ import com.esri.arcgisruntime.mapping.view.SketchGeometryChangedEvent;
 import com.esri.arcgisruntime.mapping.view.SketchGeometryChangedListener;
 import com.esri.arcgisruntime.mapping.view.SketchStyle;
 import com.lql.rsgis.BMOD.MapModule.BaseWidget.BaseWidget;
+import com.lql.rsgis.R;
 
 import gisluq.lib.Util.ToastUtils;
 

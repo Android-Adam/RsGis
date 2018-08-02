@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.R;
 
 /**
  * 应用程序组件基类

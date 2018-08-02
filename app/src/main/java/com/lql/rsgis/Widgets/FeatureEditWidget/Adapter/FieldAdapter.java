@@ -13,8 +13,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.esri.arcgisruntime.data.Feature;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Widgets.QueryWidget.Bean.KeyAndValueBean;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Widgets.QueryWidget.Bean.KeyAndValueBean;
 
 import java.util.ArrayList;
 import java.util.List;

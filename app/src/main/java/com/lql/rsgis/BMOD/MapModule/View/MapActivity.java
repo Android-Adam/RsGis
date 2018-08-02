@@ -18,15 +18,15 @@ import android.widget.LinearLayout;
 import android.widget.PopupMenu;
 import android.widget.TextView;
 
-import com.gisluq.runtimeviewer.BMOD.MapModule.BaseWidget.BaseWidget;
-import com.gisluq.runtimeviewer.BMOD.MapModule.BaseWidget.WidgetManager;
-import com.gisluq.runtimeviewer.BMOD.MapModule.Map.MapManager;
-import com.gisluq.runtimeviewer.BMOD.MapModule.Resource.ResourceConfig;
-import com.gisluq.runtimeviewer.Base.BaseActivity;
-import com.gisluq.runtimeviewer.Config.AppConfig;
-import com.gisluq.runtimeviewer.Config.Entity.ConfigEntity;
-import com.gisluq.runtimeviewer.Config.Entity.WidgetEntity;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.BMOD.MapModule.BaseWidget.BaseWidget;
+import com.lql.rsgis.BMOD.MapModule.BaseWidget.WidgetManager;
+import com.lql.rsgis.BMOD.MapModule.Map.MapManager;
+import com.lql.rsgis.BMOD.MapModule.Resource.ResourceConfig;
+import com.lql.rsgis.Base.BaseActivity;
+import com.lql.rsgis.Config.AppConfig;
+import com.lql.rsgis.Config.Entity.ConfigEntity;
+import com.lql.rsgis.Config.Entity.WidgetEntity;
+import com.lql.rsgis.R;
 
 import java.io.IOException;
 import java.io.InputStream;

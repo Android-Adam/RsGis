@@ -22,15 +22,15 @@ import com.esri.arcgisruntime.layers.FeatureLayer;
 import com.esri.arcgisruntime.mapping.view.SketchCreationMode;
 import com.esri.arcgisruntime.mapping.view.SketchEditor;
 import com.esri.arcgisruntime.mapping.view.SketchStyle;
-import com.gisluq.runtimeviewer.BMOD.MapModule.BaseWidget.BaseWidget;
-import com.gisluq.runtimeviewer.R;
-import com.gisluq.runtimeviewer.Utils.FileUtils;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Adapter.FeatureTempleteAdapter;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Adapter.FieldAdapter;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Listener.MapSelectOnTouchListener;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Media.MediaAlertView;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Media.VoiceAlertView;
-import com.gisluq.runtimeviewer.Widgets.FeatureEditWidget.Resource.DrawToolsResource;
+import com.lql.rsgis.BMOD.MapModule.BaseWidget.BaseWidget;
+import com.lql.rsgis.R;
+import com.lql.rsgis.Utils.FileUtils;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Adapter.FeatureTempleteAdapter;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Adapter.FieldAdapter;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Listener.MapSelectOnTouchListener;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Media.MediaAlertView;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Media.VoiceAlertView;
+import com.lql.rsgis.Widgets.FeatureEditWidget.Resource.DrawToolsResource;
 
 import java.io.File;
 

@@ -3,7 +3,7 @@ package com.lql.rsgis.Config;
 
 import android.content.Context;
 
-import com.gisluq.runtimeviewer.Config.Entity.ConfigEntity;
+import com.lql.rsgis.Config.Entity.ConfigEntity;
 
 import gisluq.lib.Util.SDCardUtils;
 

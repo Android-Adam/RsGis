@@ -4,8 +4,8 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.widget.TextView;
 
-import com.gisluq.runtimeviewer.Base.BaseActivity;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.Base.BaseActivity;
+import com.lql.rsgis.R;
 
 import gisluq.lib.Util.AppUtils;
 

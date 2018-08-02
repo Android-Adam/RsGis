@@ -3,8 +3,8 @@ package com.lql.rsgis.Widgets;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.gisluq.runtimeviewer.BMOD.MapModule.BaseWidget.BaseWidget;
-import com.gisluq.runtimeviewer.R;
+import com.lql.rsgis.BMOD.MapModule.BaseWidget.BaseWidget;
+import com.lql.rsgis.R;
 
 /**
  * 测试用组件

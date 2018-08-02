@@ -5,7 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.gisluq.runtimeviewer.Common.ToolBarHelper;
+import com.lql.rsgis.Common.ToolBarHelper;
+
 
 /**
  * Activity基类
