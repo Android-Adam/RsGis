@@ -30,7 +30,7 @@ import gisluq.lib.Util.ToastUtils;
 
 /**
  * 属性查询组件-图查属性，属性查图
- * Created by gis-luq on 2018/3/10.
+ * Created by lql on 2018/3/10.
  */
 public class QueryWidget extends BaseWidget {
 

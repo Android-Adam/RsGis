@@ -8,7 +8,7 @@ import com.lql.rsgis.R;
 
 /**
  * 测试用组件
- * Created by gis-luq on 2018/5/10.
+ * Created by lql on 2018/5/10.
  */
 public class HelloWorldWidget extends BaseWidget {
 

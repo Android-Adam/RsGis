@@ -12,7 +12,7 @@ import com.lql.rsgis.R;
 /**
  * 应用程序组件基类
  * 负责和UI交互
- * Created by gis-luq on 2018/4/10.
+ * Created by lql on 2018/4/10.
  */
 
 public class BaseWidgetControl {

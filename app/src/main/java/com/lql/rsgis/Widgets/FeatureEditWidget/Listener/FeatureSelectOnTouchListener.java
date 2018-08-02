@@ -30,7 +30,7 @@ import gisluq.lib.Util.ToastUtils;
 
 /**
  * 要素选择事件
- * Created by gis-luq on 2018/6/7.
+ * Created by lql on 2018/6/7.
  */
 public class FeatureSelectOnTouchListener implements OnTouchListener {
 

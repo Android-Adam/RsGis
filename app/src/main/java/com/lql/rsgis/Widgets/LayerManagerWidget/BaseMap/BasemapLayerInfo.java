@@ -2,7 +2,7 @@ package com.lql.rsgis.Widgets.LayerManagerWidget.BaseMap;
 
 /**
  * 图层信息列表
- * Created by gis-luq on 2015/4/2.
+ * Created by lql on 2015/4/2.
  */
 public class BasemapLayerInfo {
 

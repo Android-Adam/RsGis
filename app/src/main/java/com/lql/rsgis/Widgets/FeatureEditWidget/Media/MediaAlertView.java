@@ -22,7 +22,7 @@ import gisluq.lib.Util.SysUtils;
 
 /**
  * 多媒体
- * Created by gis-luq on 2015/11/24.
+ * Created by lql on 2015/11/24.
  */
 public class MediaAlertView {
 

@@ -10,7 +10,7 @@ import com.lql.rsgis.R;
 
 /**
  * 要素绘制工具UI信息
- * Created by gis-luq on 2018/4/20.
+ * Created by lql on 2018/4/20.
  */
 public class DrawToolsResource {
 

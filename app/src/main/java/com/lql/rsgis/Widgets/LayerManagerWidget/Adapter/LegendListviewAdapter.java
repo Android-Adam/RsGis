@@ -22,7 +22,7 @@ import java.util.concurrent.ExecutionException;
 
 /**
  * 图例
- * Created by gis-luq on 2018/4/25.
+ * Created by lql on 2018/4/25.
  */
 public class LegendListviewAdapter extends BaseAdapter {
 

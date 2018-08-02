@@ -37,7 +37,7 @@ import java.util.List;
 
 /**
  * 图层控制
- * Created by gis-luq on 2017/5/5.
+ * Created by lql on 2017/5/5.
  */
 public class LayerManagerWidget extends BaseWidget {
 

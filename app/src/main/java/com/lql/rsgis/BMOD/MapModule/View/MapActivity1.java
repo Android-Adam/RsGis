@@ -342,6 +342,7 @@ public class MapActivity1 extends BaseActivity {
         reItem.setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);//显示到状态栏
 
         MenuItem menuItemSetting= menu.add(Menu.NONE, Menu.FIRST + 2, 0, "锁屏设置");
+        menuItemSetting.setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);//显示到状态栏
 //        MenuItem menuItemSetting= menu.add(Menu.NONE, Menu.FIRST + 2, 0, "锁屏设置");
         MenuItem menuItemAbout= menu.add(Menu.NONE, Menu.FIRST + 3, 0, "关于");
 

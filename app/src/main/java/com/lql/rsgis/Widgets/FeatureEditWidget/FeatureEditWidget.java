@@ -40,7 +40,7 @@ import gisluq.lib.Util.ToastUtils;
 
 /**
  * 编辑组件
- * Created by gis-luq on 2018/4/25.
+ * Created by lql on 2018/4/25.
  */
 public class FeatureEditWidget extends BaseWidget {
 

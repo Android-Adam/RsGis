@@ -2,7 +2,7 @@ package com.lql.rsgis.Widgets.QueryWidget.Bean;
 
 /**
  * 属性
- * Created by gis-luq on 2018/2/24.
+ * Created by lql on 2018/2/24.
  */
 
 public class KeyAndValueBean {

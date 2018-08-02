@@ -30,7 +30,7 @@ import java.text.DecimalFormat;
 
 /**
  * 用户扩展位置显示类
- * Created by gis-luq on 2018/4/10.
+ * Created by lql on 2018/4/10.
  */
 public class DMUserLocationManager {
 

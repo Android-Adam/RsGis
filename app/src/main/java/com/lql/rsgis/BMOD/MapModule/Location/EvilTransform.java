@@ -2,7 +2,7 @@ package com.lql.rsgis.BMOD.MapModule.Location;
 
 /**
  * 坐标转换接口
- * Created by gis-luq on 2018/4/10.
+ * Created by lql on 2018/4/10.
  */
 public class EvilTransform {
 
